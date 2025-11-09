@@ -46,8 +46,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 2. Click **File → New STM32 Project**.
    
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/07e98618-45bf-4c53-ae74-aceb95e76c2e" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/14fb8da3-a666-4c66-98da-c77f840115c4" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/07e98618-45bf-4c53-ae74-aceb95e76c2e" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/14fb8da3-a666-4c66-98da-c77f840115c4" />
 
 3. Select the **target microcontroller** or board and click **Next**.
   
@@ -71,8 +71,8 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 8. Edit the generated main program as required.
    
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fb2d7a94-281a-471e-8f1c-963fabde80ce" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/386e1544-f898-4c19-8e42-cd8ca9d2b117" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/fb2d7a94-281a-471e-8f1c-963fabde80ce" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/386e1544-f898-4c19-8e42-cd8ca9d2b117" />
 
 9. Click **Project → Build All**.
     
